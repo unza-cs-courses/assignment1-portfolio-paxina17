@@ -127,22 +127,26 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Paxina Sakala
+**Student ID:** 2022067037
+**Design Theme:** A clean, professional portfolio with modernblue and white color scheme. The design focuses on radability and user experience, using subtle shadows and smooth transitions to create depth without distraction. The layout is minimalist yet engaging, allowing the content to takecenter stage."
 
 ### CSS Techniques Used
-- [ ] CSS Custom Properties
-- [ ] Flexbox
-- [ ] CSS Grid
-- [ ] Media Queries
-- [ ] Other: _______________
+- [X} CSS Custom Properties
+- [X] Flexbox
+- [X] CSS Grid
+- [X] Media Queries
+   Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+Creating a mobile-frienfly navigation that works on all screen sizes was challenging. The hamburger menu needed to function properly on mobile while switching to horizontal navigation on desktop.
+*8solution:** Used a mobile-first approach with CSS media queries. The humburger menu is hidden on desktop using 'display: none', and the navigation links are dsplayed horizontally using flexbox.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+**profile image**: Paxina Sakala - personal photo
+**fonts**: Sytems default fonts
+**inspiration** Assignment requirements from CSC4035
+**Code**: All HTML and CSS written from scratch as per assignment requirements
 
 ---
 
